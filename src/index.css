@@ -1,0 +1,94 @@
+.map-region-title {
+  pointer-events: none;
+  fill: #EC1C26
+}
+.karpatu {
+  fill: url("#img1-dark");
+}
+.karpatu:hover {
+  fill: url("#img1");
+}
+.path-container {
+  cursor: pointer;
+  stroke-width: 1px;
+  stroke: #353535;
+}
+.tavria {
+  fill: url("#img2-dark");
+}
+
+.tavria:hover {
+  fill: url("#img2");
+}
+.nyzhnye-pobuzhia {
+  fill: url("#img3-dark");
+}
+.nyzhnye-pobuzhia:hover {
+  fill: url("#img3");
+}
+.donshchyna {
+  fill: url("img4-dark");
+}
+.donshchyna:hover {
+  fill: url("img4");
+}
+.nuznie-podniprovia {
+  fill: url("img5-dark");
+}
+.nuznie-podniprovia:hover {
+  fill: url("img5");
+}
+.slobidshchyna {
+  fill: url("img6-dark");
+}
+.slobidshchyna:hover {
+  fill: url("#img6");
+}
+.serednie-polissia {
+  fill: url("#img7-dark");
+}
+.serednie-polissia:hover {
+  fill: url("#img7");
+}
+.zachidne-polissia {
+  fill: url("#img8-dark");
+}
+.zachidne-polissia:hover {
+  fill: url("#img8");
+}
+.zahidne-podillia {
+  fill: url("#img9-dark");
+}
+.zahidne-podillia:hover {
+  fill: url("#img9");
+}
+.volyn {
+  fill: url("#img10-dark");
+}
+.volyn:hover {
+  fill: url("#img10");
+}
+.shidne-podillia {
+  fill: url("#img11-dark");
+}
+.shidne-podillia:hover {
+  fill: url("#img11");
+}
+.serednia-naddniprianshchina {
+  fill: url("#img12-dark");
+}
+.serednia-naddniprianshchina:hover {
+  fill: url("#img12");
+}
+.shidne-polisssia {
+  fill: url("#img13-dark");
+}
+.shidne-polisssia:hover {
+  fill: url("#img13");
+}
+.krym {
+  fill: url("#img14-dark");
+}
+.krym:hover {
+  fill: url("#img14");
+}
